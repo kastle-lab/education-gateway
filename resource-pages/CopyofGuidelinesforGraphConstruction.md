@@ -45,6 +45,7 @@ Schema diagram: This is like an entity-relation diagram for a knowledge graph. I
 
 
 [QuantityofStuffPattern](assets/images/ QuantityOfStuff-pattern.png)
+
 This is a schema diagram just for data involving quantities of food. The diagram for a whole knowledge graph would be similar but larger.
 [image source](https://daselab.cs.ksu.edu/sites/default/files/2020-mom-tutorial.pdf)
 

@@ -77,7 +77,7 @@ Jim Balhoff, balhoff@renci.org (FRINK)
 Volkmar Frinken volkmar@onai.com (SPIDER)
 Mahir Morshed, mmorshed@scripps.edu (FRINK)
 
-**June 2024**
+June 2024
 
 Feel free to reach out with questions any time, preferably to edugate@proto-okn.net.
 

@@ -95,4 +95,4 @@ Learning Steps:
 - Uploading of KG files (TTL, OWL)
 - Querying from KGs with SPARQL
 
-**More to be added based on information gathering sessions with the Theme 1 teams**
+**More to be added based on information gathered from sessions with the Theme1 teams**

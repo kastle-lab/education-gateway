@@ -5,4 +5,4 @@
 Under Construction.
 
 ### Best Practices
- * Find the guideline ![here](./resource-pages/graph-construction-guidelines.md)
+ * Find the guidelines ![here](./resource-pages/graph-construction-guidelines.md)

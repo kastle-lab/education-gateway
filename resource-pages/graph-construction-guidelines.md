@@ -1,7 +1,6 @@
 
 #### **Proto-OKN Best Practice Guidelines for Knowledge Graph Construction: Identifiers, Documentation, Axioms, RDF Validation**
 
-7 June 2024 draft
 
 For questions, contact edugate@proto-okn.net.
 

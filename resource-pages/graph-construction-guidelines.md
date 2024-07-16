@@ -43,7 +43,7 @@ Preferably you would translate your natural-language competency questions into S
 Schema diagram: This is like an entity-relation diagram for a knowledge graph. It has boxes for each class of entities, circles for each type of data literals, and arrows for each property.
 
 
-![QuantityofStuffPattern](assets/images/QuantityOfStuff-pattern.png)
+![QuantityofStuffPattern](https://github.com/kastle-lab/education-gateway/blob/master/assets/images/%20QuantityOfStuff-pattern.png)
 This is a schema diagram just for data involving quantities of food. The diagram for a whole knowledge graph would be similar but larger.
 [image source](https://daselab.cs.ksu.edu/sites/default/files/2020-mom-tutorial.pdf)
 

@@ -1,11 +1,11 @@
 ## People
 
 ### Principal Investigator
-* [Cogan Shimizu](https://coganshimizu.com) <br /> Director
-* [Pascal Hitzler](https://pascal-hitzler.de) <br /> [Data Semantics (DaSe) Laboratory](https://daselab.org/) <br /> [Kansas State University](https://k-state.edu)
-* [Hande Kucuk McGinty](http://handemcginty.com/) <br /> [KONCORDANT Lab](https://www.koncordantlab.com/)[Kansas State University](https://k-state.edu)
-* [Florence Hudson](https://datascience.columbia.edu/people/florence-hudson/)
-* [François Scharffe](https://lechatpito.github.io/)
+* [**Cogan Shimizu**](https://coganshimizu.com) <br /> [Knowledge and Semantic Technologies (KASTLE) Lab](https://kastle.cs.wright.edu/) <br /> [Wright State University](https://wright.edu)
+* [**Pascal Hitzler**](https://pascal-hitzler.de) <br /> [Data Semantics (DaSe) Laboratory](https://daselab.org/) <br /> [Kansas State University](https://k-state.edu)
+* [**Hande Kucuk McGinty**](http://handemcginty.com/) <br /> [KONCORDANT Lab](https://www.koncordantlab.com/) <br /> [Kansas State University](https://k-state.edu)
+* [**Florence Hudson**](https://datascience.columbia.edu/people/florence-hudson/)
+* [**François Scharffe**](https://lechatpito.github.io/)
 
 ### Team Members
 * [Antrea Christou](https://github.com/antreac) <br /> Wright State University

@@ -19,10 +19,10 @@
         <a href="{{ site.github.owner_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /> </a>
         {% endif %}
 
-        <p align="center"><a href="./index">Home</a></p>
-        <p align="center"><a href="./people">People</a></p>
-        <p align="center"><a href="./publications">Publications</a></p>
-        <p align="center"><a href="./resources">Resources</a></p>
+        <p align="center"><a href="{{ '/index' | relative_url }}">Home</a></p>
+        <p align="center"><a href="{{ '/people' | relative_url }}">People</a></p>
+        <p align="center"><a href="{{ '/publications' | relative_url }}">Publications</a></p>
+        <p align="center"><a href="{{ '/resources' | relative_url }}">Resources</a></p>
         <hr>
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>

@@ -13,3 +13,4 @@
 * [Chris Davis Jaldi](https://github.com/chrisdavisj) <br /> Wright State University
 * Emily Rothenberg <br /> Columbia University
 * Joseph Zalewski <br /> Kansas State University
+* [Elham Ghiasi](https://github.com/Elhamghiasi) <br/> Wright State University 

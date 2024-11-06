@@ -6,6 +6,9 @@
 * [**Hande Kucuk McGinty**](http://handemcginty.com/) <br /> [KONCORDANT Lab](https://www.koncordantlab.com/) <br /> [Kansas State University](https://k-state.edu)
 * [**Florence Hudson**](https://datascience.columbia.edu/people/florence-hudson/)
 * [**François Scharffe**](https://lechatpito.github.io/)
+* [Hugues(Hugo) Seureau] <br /> [App Lead at KnowHax and Founder at GenHax)
+* [Muru C.Willson] <br /> [KGC's Cheif Learning Officer)
+* [Thomas Deeley]
 
 ### Team Members
 * [Antrea Christou](https://github.com/antreac) <br /> Wright State University

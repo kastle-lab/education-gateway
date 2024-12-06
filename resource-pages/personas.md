@@ -123,7 +123,9 @@ Learning Steps:
 I am the CTO for my organization, in charge of the overall technical direction of the applications and any R&D. I need rapid insights, e.g., regarding functionality and tradeoffs, into whether or not this technology is worth pursuing for our applications, and therefore worth investing time any funds for an optimal outcome.
 
 Learning Steps:
-- 
+- What is a Knowledge Graph?
+- Why is using a KG different and better than other traditional database management?
+- Look into real world KG end tools.
 
 ## Consultant
 

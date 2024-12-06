@@ -1,4 +1,25 @@
-# Established Personas
+# Learning Profiles (Personas)
+
+Below is a list of different personas we have obtained along Theme One projects and teams along with 
+some pre-determined ones.
+1. [Enthusiast](#Enthusiast).
+2. [Developer](#Developer).
+3. [Darwin](#TheDarwin).
+4. [Contributor](#Contributor).
+5. [Executive](#executive).
+6. [Consultant](#consultant).
+7. [Collaborator](#collaborator).
+8. [Ontology/ Vocabulary Expert](#ontology-vocabulary-expert).
+9. [Educational Facilitator](#educational-facilitator).
+10. [Curriculum Developer](#curriculum-developer).
+11. [Resource Developer](#recourse-developer).
+12. [User Engagement Facilitator](#user-engagement-facilitator).
+13. [Security Analyst and Developer Trainer](#security-analyst-and-developer-trainer).
+14. [Supply Chain Engagement Specialist](#supply-chain-engagement-specialist).
+15. [KG Researcher](#kg-researcher).
+16. [Executive Engagement Specialist](#executive-engagement-specialist).
+
+
 
 ## Enthusiast
 **The Ethan**  
@@ -71,7 +92,7 @@ Learning Steps:
     - Patterns for higher concepts representation
     - What libraries already exist? (MODL) and How can someone adopt from this?
 
-## The Courtney
+**The Courtney**
 **Data Analyst**
 
 I am currently using a series of spreadsheets to store my data. This database system has become complex and takes a while for calculating simple queries. I would like to explore the pros and cons of different storage mediums, like knowledge bases.
@@ -95,4 +116,185 @@ Learning Steps:
 - Uploading of KG files (TTL, OWL)
 - Querying from KGs with SPARQL
 
-**More to be added based on information gathered from sessions with the Theme1 teams**
+## Executive
+
+**The Edward**
+
+I am the CTO for my organization, in charge of the overall technical direction of the applications and any R&D. I need rapid insights, e.g., regarding functionality and tradeoffs, into whether or not this technology is worth pursuing for our applications, and therefore worth investing time any funds for an optimal outcome.
+
+Learning Steps:
+- 
+
+## Consultant
+
+**The Chris**
+
+ I am currently a consultant to stakeholders for the BioBricks Theme. I need to be able to convince them as to why to invest in this project aka  as to why KGs are important with this use case. I need to learn the basics about them, mostly their pros.
+
+Learning Steps:
+-  What is a Knowledge Graph.
+-  Why are the benefits of using KGs?
+-  What is the end goal/ tool and how is it going to be used?
+
+## Collaborator
+
+**The Carla**
+
+ I am currently a collaboration facilitator for the Bio-Health Theme. I need to be able to engage with  people in the clinical area in order to make research for social patterns facilitated by KGs work in this use case. I need to learn the basics but also to be able to understand how the data we want to collect can eventually be integrated with KGs.
+
+Learning Steps:
+- What is a Knowledge Graph.
+- RDF and RDFS familiarization along with what a Schema is.
+- What is an Ontology.
+- What is an Identifier.
+- What is Protege/ Yed.
+- OWL Syntax.
+- How to deploy a Knowledge Graph.
+- What is a TTL file, how to read it ?
+- SPARQL query language, when and how to use it ? 
+- Validation of the KG through Apache Jena Fuseki.
+
+
+## Ontology/ Vocabulary Expert
+
+**The Oratius**
+
+I am currently an Ontology and Vocabulary Expert
+for the Spole Theme. I need to be able to develop relevant ontology vocabulary that can be used with the ontology building of the use case. Therefore I have to learn the background/ behind the scenes material regarding KGs at a theoretical level so I can develop the relevant vocabulary.
+
+Learning Steps:
+- What is a Knowledge Graph.
+- RDF and RDFS familiarization along with what a Schema is.
+- What is an Identifier.
+- What is Protege/ Yed.
+- OWL Syntax.
+
+
+## Educational Facilitator
+
+**The Elias**
+
+ I am an Educational Facilitator for the IJP  Theme. I need to be able to learn about KGs in a theoretical and practical level so I can also educate high-interest users, including faculty and graduate students, seeking expansion of computational tools. 
+
+Learning Steps:
+
+- What is a Knowledge Graph.
+- RDF and RDFS familiarization along with what a Schema is.
+- What is an Ontology.
+- What is an Identifier.
+- - What is Protege/ Yed.
+- OWL Syntax.
+- How to deploy a KG : rdflib starter code - Go through it, understand it, work with examples.
+- What is a TTL file, how to read it ?
+- SPARQL query language, when and how to use it ? 
+- Validation of the KG through Apache Jena Fuseki.
+
+
+## Curriculum Developer
+
+**The Cameron**
+
+ I am a Curriculum Developer for the DREAM-KG  Theme. I need to be able to learn about KGs in a theoretical level so I can construct a curriculum for any undergraduate and graduate students, particularly those majoring in social work.
+
+ Learning Steps:
+ - What is a Knowledge Graph.
+- Background information in Set Theory and Axiom understanding.
+- RDF and RDFS familiarization along with what a Schema is.
+- What is an Ontology.
+- What is an Identifier.
+- What is Protege/ Yed.
+- OWL Syntax.
+
+
+## Recourse Developer
+
+**The Ronnie**
+
+I am a Resource Developer for the Health and Justice  Theme. I need to be able to learn about KGs in a theoretical and practical  level so I can create resources  to address frequently asked questions about KGs and SPARQL. That also includes any tools that are used for creation/deployment/validation.
+
+Learning Steps:
+- What is a Knowledge Graph.
+- RDF and RDFS familiarization along with what a Schema is.
+- What is an Ontology.
+- What is an Identifier.
+- What is Protege/ Yed.
+- OWL Syntax.
+- How to deploy a KG : rdflib starter code - Go through it, understand it, work with examples.
+- What is a TTL file, how to read it ?
+- SPARQL query language, when and how to use it ? 
+- Validation of the KG through Apache Jena Fuseki.
+
+## User Engagement Facilitator
+
+**The Usman**
+
+I am a User Engagement Facilitator for the CollabNext Theme. I need to be able to learn about KGs in a theoretical and practical  level so I can Train developers (mostly students) to navigate the graph, with an ongoing need to address data issues.  That also includes any tools that are used for creation/deployment/validation.
+
+Learning Steps:
+- What is a Knowledge Graph.
+- RDF and RDFS familiarization along with what a Schema is.
+- What is an Ontology.
+- What is an Identifier.
+- What is Protege/ Yed.
+- OWL Syntax.
+- How to deploy a KG : rdflib starter code - Go through it, understand it, work with examples.
+- What is a TTL file, how to read it ?
+- SPARQL query language, when and how to use it ? 
+- Validation of the KG through Apache Jena Fuseki.
+- Showcasing the tool.
+
+## Security Analyst and Developer Trainer
+
+**The Stella**
+
+I am a Security Analyst for the Knowledge Graph Construction for Resilient, Trustworthy, and Secure Software Supply Chains  Theme. I need to be able to learn about KGs on a practical  level so I can develop a visual programming tool for developers unfamiliar with SPARQL, complemented by a SPARQL editor and a natural language querying tool.
+
+Learning Steps:
+- What is a Knowledge Graph.
+- RDF and RDFS familiarization along with what a Schema is.
+- What is an Ontology.
+- What is an Identifier.
+- What is Protege/ Yed.
+- OWL Syntax.
+- How to deploy a KG : rdflib starter code - Go through it, understand it, work with examples.
+- What is a TTL file, how to read it ?
+- SPARQL query language, when and how to use it ? 
+- Validation of the KG through Apache Jena Fuseki.
+- Showcase the tool.
+
+
+##  Supply Chain Engagement Specialist
+
+**The Silas**
+
+I am a Supply Chain Engagement Specialist for the SUDOKN Theme. I need to be able to learn about KGs on theoretical and shallow level so I manage to engage manufacturers by demonstrating the power of global connections through KGs, while keeping the underlying ontology hidden to avoid overwhelming users.
+
+Learning Steps:
+- What is a Knowledge Graph.
+- Validation of the KG through Apache Jena Fuseki.
+- Why using a KG on top of a simple Database?
+
+
+## KG Researcher
+
+**The Kai**
+
+I am a Data-Centric Knowledge Graph Researcher, exploring how KGs can enrich my work in data science, NLP, and machine learning. I need to learn about KG construction and tools, so I can apply this knowledge to research projects in soil carbon and agriculture ecosystems. I’m looking for easy-to-use interfaces and practical guides to start exploring and creating KGs.
+
+Learning Steps:
+- Introduction to Knowledge Graphs and their applications in data-centric fields.
+- Using Apache Jena Fuseki for validation of KGs.
+- Understanding why KGs provide more value over traditional databases.
+- Showcasing KG tools like Neo4J for data exploration and interaction.
+
+
+## Executive Engagement Specialist
+
+**The Ella**
+
+I am an Executive Engagement Specialist working with a team focused on promoting the business value of Knowledge Graphs (KGs) to executives. I need to communicate the strategic advantages of KGs, such as their ability to act as digital twins, without overwhelming them with technical details. My goal is to showcase the outcomes and benefits through high-level, accessible materials that resonate with their business objectives.
+
+Learning Steps:
+- Understanding Digital Twins: Highlight how KGs can act as digital twins, providing a comprehensive and real-time representation of data and processes, which is a concept many executives are familiar with.
+- Outcome-Driven Learning: Provide materials (e.g., videos, infographics) that focus on the business outcomes of using KGs, such as improved decision-making, strategic insights, and operational efficiencies.
+- Unified Interface for Data Interaction: Explain the importance of a unified interface for executives to easily explore and interact with the data within the KG.

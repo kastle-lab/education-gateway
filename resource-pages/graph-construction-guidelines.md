@@ -1,5 +1,5 @@
 
-#### **Proto-OKN Best Practice Guidelines for Knowledge Graph Construction: Identifiers, Documentation, Axioms, RDF Validation**
+### **Proto-OKN Best Practice Guidelines for Knowledge Graph Construction: Identifiers, Documentation, Axioms, RDF Validation**
 
 
 For questions, contact edugate@proto-okn.net.
@@ -43,7 +43,7 @@ Preferably you would translate your natural-language competency questions into S
 Schema diagram: This is like an entity-relation diagram for a knowledge graph. It has boxes for each class of entities, circles for each type of data literals, and arrows for each property.
 
 
-![QuantityofStuffPattern](https://github.com/kastle-lab/education-gateway/blob/master/assets/images/%20QuantityOfStuff-pattern.png)
+![QuantityofStuffPattern](../resource-pages/pngs/QuantityOfStuff-pattern.png)
 This is a schema diagram just for data involving quantities of food. The diagram for a whole knowledge graph would be similar but larger.
 [image source](https://daselab.cs.ksu.edu/sites/default/files/2020-mom-tutorial.pdf)
 
@@ -51,13 +51,21 @@ This is a schema diagram just for data involving quantities of food. The diagram
 #### **Axioms**
 
 Semantics makes a knowledge graph more useful, and a little bit goes a long way. We recommend the following rdfs axioms (if using rdf):
-* For every class X, include
+
+```
+For every class X, include
 X rdf:type rdfs:Class .
-* For every property X, if you can identify a domain A and/or range B for it among your classes, include
+```
+
+```
+For every property X, if you can identify a domain A and/or range B for it among your classes, include
 X rdfs:domain A .
 X rdfs:range B .
-* For any class A that is a specialization of another class B, include
+```
+```
+ For any class A that is a specialization of another class B, include
 A rdfs:subClassOf B .
+```
 
 #### **RDF Validation**
 
@@ -70,11 +78,26 @@ can implement this in Python.
 
 #### **Authors**
 
-Joseph Zalewski, jzalewski@ksu.edu (EduGate)
-Pascal Hitzler, hitzler@ksu.edu (EduGate)
-Jim Balhoff, balhoff@renci.org (FRINK)
-Volkmar Frinken volkmar@onai.com (SPIDER)
-Mahir Morshed, mmorshed@scripps.edu (FRINK)
+1. **Joseph Zalewski**
+   - Email: [jzalewski@ksu.edu](mailto:jzalewski@ksu.edu)
+   - Affiliation: EduGate
+
+2. **Pascal Hitzler**
+   - Email: [hitzler@ksu.edu](mailto:hitzler@ksu.edu)
+   - Affiliation: EduGate
+
+3. **Jim Balhoff**
+   - Email: [balhoff@renci.org](mailto:balhoff@renci.org)
+   - Affiliation: FRINK
+
+4. **Volkmar Frinken**
+   - Email: [volkmar@onai.com](mailto:volkmar@onai.com)
+   - Affiliation: SPIDER
+
+5. **Mahir Morshed**
+   - Email: [mmorshed@scripps.edu](mailto:mmorshed@scripps.edu)
+   - Affiliation: FRINK
+
 
 June 2024
 

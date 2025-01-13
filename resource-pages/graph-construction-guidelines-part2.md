@@ -1,4 +1,4 @@
-#### **Proto-OKN Best Practice Guidelines for Knowledge Graph Construction: Relations, Classes**
+### **Proto-OKN Best Practice Guidelines for Knowledge Graph Construction: Relations, Classes**
 
 For questions, contact [edugate@proto-okn.net](mailto:edugate@proto-okn.net).
 
@@ -50,9 +50,17 @@ ex:Bob rdf:type ex:Bird .
 
 #### **Authors**
 
-Joseph Zalewski, jzalewski@ksu.edu (EduGate)
-Mahir Morshed, mmorshed@scripps.edu (FRINK)
-Pascal Hitzler, hitzler@ksu.edu (EduGate)
+1. **Joseph Zalewski**
+   - Email: [jzalewski@ksu.edu](mailto:jzalewski@ksu.edu)
+   - Affiliation: EduGate
+
+2. **Mahir Morshed**
+   - Email: [mmorshed@scripps.edu](mailto:mmorshed@scripps.edu)
+   - Affiliation: FRINK
+
+3. **Pascal Hitzler**
+   - Email: [hitzler@ksu.edu](mailto:hitzler@ksu.edu)
+   - Affiliation: EduGate
 
 September 2024
 

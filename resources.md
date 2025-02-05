@@ -28,15 +28,15 @@
 
 ### Personas
 
-- Find the personas [here](./resource-pages/personas.md)
+- Find the personas [here](./resource-pages/personas.md).
 
 ### Open Knowledge Graph Curriculum
 
-- Find the repository resources [here](https://github.com/KGConf/open-kg-curriculum)
+- Find the repository resources [here](https://github.com/KGConf/open-kg-curriculum).
 
 ### Drawbridge
 
-- Find the Kastle Drawbridge resources [here](https://github.com/kastle-lab/kastle-drawbridge)
+- Find the Kastle Drawbridge resources [here](https://github.com/kastle-lab/kastle-drawbridge).
 
 ### Seminar-Schedule
 

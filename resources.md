@@ -37,3 +37,7 @@
 ### Drawbridge
 
 - Find the Kastle Drawbridge resources [here](https://github.com/kastle-lab/kastle-drawbridge)
+
+### Seminar-Schedule
+
+- Find the Seminar Schedule [here](./resource-pages/seminar-schedule.md).

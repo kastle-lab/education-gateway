@@ -10,6 +10,8 @@
   - Part1 [here](./resource-pages/graph-construction-guidelines.md)
   - Part2 [here](./resource-pages/graph-construction-guidelines-part2.md)
 
+- Find the guidelines for representation of spatial data [here](./resource-pages/spatial-data-representation-guidelines.md).
+
 ### Ontology Flashcards
 
 - Find the ontology flashcard videos for educational purposes here:

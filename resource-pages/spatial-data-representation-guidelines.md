@@ -16,9 +16,11 @@ If you need to use coordinates in another CRS, one can include an IRI for the CR
 
 Example: if you have a power plant located at position -82, 39 in EPSG:4326 coordinates, your graph may contain triples like:
 
- <span style='color:blue'>ex:Plant12 rdf:type geo:Feature .
-ex:Plant12 geo:hasGeometry ex:geometry_Plant12 .
-ex:geometry_Plant12 geo:asWKT “POINT (-82 39)”^^geo:wktLiteral .</span>
+ <span style='color:blue'>ex:Plant12 rdf:type geo:Feature .</span>
+
+<span style='color:blue'>ex:Plant12 geo:hasGeometry ex:geometry_Plant12 .</span>
+
+<span style='color:blue'>ex:geometry_Plant12 geo:asWKT “POINT (-82 39)”^^geo:wktLiteral .</span>
 
 #### **Names of Administrative Regions**
 
@@ -59,11 +61,17 @@ PREFIX kwgr: <http://stko-kwg.geog.ucsb.edu/lod/resource/>
 KWG also provides predicates for the common topological relations between regions, as originally defined by the SF ontology. If you assert any of these relations between two regions, please use the predicates:
 
 <span style='color:blue'>kwg-ont:sfWithin
+
 kwg-ont:sfContains
+
 kwg-ont:sfEquals
+
 kwg-ont:sfDisjoint
+
 kwg-ont:sfOverlaps
+
 kwg-ont:sfTouches
+
 kwg-ont:sfCrosses</span>
 
 They are provided by the namespace:

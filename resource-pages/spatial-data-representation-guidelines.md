@@ -60,19 +60,19 @@ PREFIX kwgr: <http://stko-kwg.geog.ucsb.edu/lod/resource/>
 
 KWG also provides predicates for the common topological relations between regions, as originally defined by the SF ontology. If you assert any of these relations between two regions, please use the predicates:
 
-<span style='color:blue'>kwg-ont:sfWithin
+<span style='color:blue'>kwg-ont:sfWithin</span>
 
-kwg-ont:sfContains
+<span style='color:blue'>kwg-ont:sfContains</span>
 
-kwg-ont:sfEquals
+<span style='color:blue'>kwg-ont:sfEquals</span>
 
-kwg-ont:sfDisjoint
+<span style='color:blue'>kwg-ont:sfDisjoint</span>
 
-kwg-ont:sfOverlaps
+<span style='color:blue'>kwg-ont:sfOverlaps</span>
 
-kwg-ont:sfTouches
+<span style='color:blue'>kwg-ont:sfTouches</span>
 
-kwg-ont:sfCrosses</span>
+<span style='color:blue'>kwg-ont:sfCrosses</span>
 
 They are provided by the namespace:
 PREFIX kwg-ont: <http://stko-kwg.geog.ucsb.edu/lod/ontology/>

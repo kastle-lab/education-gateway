@@ -7,8 +7,8 @@
 ### Best Practices
 
 - Find the guidelines for graph constructiton:
-  - Part1 [here](./resource-pages/graph-construction-guidelines.md)
-  - Part2 [here](./resource-pages/graph-construction-guidelines-part2.md)
+  - Part 1 [here](./resource-pages/graph-construction-guidelines.md)
+  - Part 2 [here](./resource-pages/graph-construction-guidelines-part2.md)
 
 - Find the guidelines for representation of spatial data [here](./resource-pages/spatial-data-representation-guidelines.md).
 

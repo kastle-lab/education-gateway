@@ -2,30 +2,28 @@
 
 Below is a list of different personas we have obtained along Theme One projects and teams along with 
 some pre-determined ones.
-1. [Enthusiast](#Enthusiast).
-2. [Developer](#Developer).
-3. [Darwin](#TheDarwin).
-4. [Contributor](#Contributor).
-5. [Executive](#executive).
-6. [Consultant](#consultant).
-7. [Collaborator](#collaborator).
-8. [Ontology/ Vocabulary Expert](#ontology-vocabulary-expert).
-9. [Educational Facilitator](#educational-facilitator).
-10. [Curriculum Developer](#curriculum-developer).
-11. [Resource Developer](#recourse-developer).
-12. [User Engagement Facilitator](#user-engagement-facilitator).
-13. [Security Analyst and Developer Trainer](#security-analyst-and-developer-trainer).
-14. [Supply Chain Engagement Specialist](#supply-chain-engagement-specialist).
-15. [KG Researcher](#kg-researcher).
-16. [Executive Engagement Specialist](#executive-engagement-specialist).
+1. [Enthusiast](#enthusiast)
+2. [Developer](#developer)
+3. [Darwin](#the-darwin)
+4. [Contributor](#contributor)
+5. [Executive](#executive)
+6. [Consultant](#consultant)
+7. [Collaborator](#collaborator)
+8. [Ontology/ Vocabulary Expert](#ontology-vocabulary-expert)
+9. [Educational Facilitator](#educational-facilitator)
+10. [Curriculum Developer](#curriculum-developer)
+11. [Resource Developer](#recourse-developer)
+12. [User Engagement Facilitator](#user-engagement-facilitator)
+13. [Security Analyst and Developer Trainer](#security-analyst-and-developer-trainer)
+14. [Supply Chain Engagement Specialist](#supply-chain-engagement-specialist)
+15. [KG Researcher](#kg-researcher)
+16. [Executive Engagement Specialist](#executive-engagement-specialist)
 
 
 
 ## Enthusiast
 
-**The Ethan**  
-
-**Graduate Student**
+**The Ethan** <br> **Graduate Student**
 
 I am a college graduate student pursuing my thesis. My research is in biomedical engineering but the path my research is taking requires the use of Knowledge Graphs! I strive to have the tools to know how to deploy every aspect of my research, however, I currently lack the knowledge and background needed to implement the Knowledge Graph part of my research. I am a visual learner, but I don't have a lot of time to spare to take the university courses that could help catch me up to where I need to be. I need something that can teach me the basics but I also need it to fit into my busy research schedule.
 
@@ -36,9 +34,7 @@ For someone with a similar background, who has no previous knowledge of what a k
 
 ## Developer 
 
-**The Debbie**  
-
-**Data Scientist / Engineer**
+**The Debbie** <br> **Data Scientist / Engineer**
 
 (Reskilling/ Upskilling perspective) I am a Data Scientist/ Engineer currently taking a new position on a cool project called KnowWhereGraph! As a developer, I am proficient in Python and C++ while also having an understanding of Set Theory and Propositional Knowledge. While taking this new role in this project, I must add to my skills and preliminary knowledge to familiarize myself with Knowledge Graphs (KGs) both in theory but in practice.
 
@@ -75,9 +71,7 @@ Learning Steps:
 
 ## Contributor
 
-**The Connie**  
-
-**Ontologist Technical Lead**
+**The Connie** <br> **Ontologist Technical Lead**
 
 At my organization, I am tasked with training junior data scientists; however, my organization uses a knowledge graph. I need to know how to standardize integration in the organization so junior data scientists can continue to grow out an existing knowledge graph as new data is gathered.
 
@@ -101,9 +95,7 @@ Learning Steps:
     - What libraries already exist? (MODL) and How can someone adopt from this?
 
 
-**Data Analyst**
-
-**The Courtney**
+**The Courtney** <br> **Data Analyst**
 
 I am currently using a series of spreadsheets to store my data. This database system has become complex and takes a while for calculating simple queries. I would like to explore the pros and cons of different storage mediums, like knowledge bases.
 

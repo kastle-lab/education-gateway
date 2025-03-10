@@ -12,6 +12,8 @@
 
 - Find the guidelines for representation of spatial data [here](./resource-pages/spatial-data-representation-guidelines.md).
 
+- Find the guidelines for querying Census Data [here](./resource-pages/census-data-guidelines.md).
+
 ### Ontology Flashcards
 
 - Find the ontology flashcard videos for educational purposes [here](./resource-pages/ontology-flashcards.md).

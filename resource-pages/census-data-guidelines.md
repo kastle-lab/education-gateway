@@ -17,7 +17,7 @@ Given the lack of a unique need of the Proto-OKN teams, that there are multiple 
 At this point, the integration of external datasets should be restricted to SPARQL endpoints. This way, queries to multiple datasets (Proto-OKN and external datasets) can be automatically federated and results merged.
 
 The corresponding SPARQL queries would need to use the
-SERVICE <endpoint> {....} keyword.
+SERVICE \<endpoint\> {....} keyword.
 
 **Example:**
 Which ninth circuit court handles the most voting related cases?

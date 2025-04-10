@@ -7,14 +7,18 @@
 ### Best Practices
 
 - Find the guidelines for graph constructiton:
-  - Part 1 [here](./resource-pages/graph-construction-guidelines.md)
-  - Part 2 [here](./resource-pages/graph-construction-guidelines-part2.md)
+  - Part 1 [here](./resource-pages/graph-construction-guidelines.md).
+  - Part 2 [here](./resource-pages/graph-construction-guidelines-part2.md).
 
 - Find the guidelines for representation of spatial data [here](./resource-pages/spatial-data-representation-guidelines.md).
 
 ### Ontology Flashcards
 
 - Find the ontology flashcard videos for educational purposes [here](./resource-pages/ontology-flashcards.md).
+
+### Proto-OKN Masterclass
+
+- Find the Proto-OKN Masterclass videos [here](./resource-pages/Proto-OKN-Masterclass-Series.md)
 
 ### Personas
 

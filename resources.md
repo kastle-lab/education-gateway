@@ -6,10 +6,10 @@
 
 ### Best Practices
 
-- Find the guidelines for graph constructiton:
-  - Part 1 [here.](./resource-pages/graph-construction-guidelines.md)
-  - Part 2 [here.](./resource-pages/graph-construction-guidelines-part2.md)
-  - Part 3 [here.](./resource-pages/graph-construction-guidelines-part3.md)
+- Find the Proto-OKN Best Practice Guidelines for Knowledhe Graph Constructiton:
+  - Part 1: Documentation, Axioms, RDF Validation [here.](./resource-pages/graph-construction-guidelines.md)
+  - Part 2: Relations, Classes [here.](./resource-pages/graph-construction-guidelines-part2.md)
+  - Part 3: FRINK Recommendations for Ontologies [here.](./resource-pages/graph-construction-guidelines-part3.md)
 
 - Find the guidelines for representation of spatial data [here.](./resource-pages/spatial-data-representation-guidelines.md).
 

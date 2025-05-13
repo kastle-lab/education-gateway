@@ -1,4 +1,4 @@
-### **Proto-OKN Guidelines Document 3: FRINK Recommendations for Ontologies**
+### **Proto-OKN Best Practice Guidelines for Knowledge Graph Construction: FRINK Recommendations for Ontologies**
 
 ### **Introduction**
 

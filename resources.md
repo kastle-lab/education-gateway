@@ -11,7 +11,7 @@
   - [Part 2: Relations, Classes](./resource-pages/graph-construction-guidelines-part2.md)
   - [Part 3: FRINK Recommendations for Ontologies](./resource-pages/graph-construction-guidelines-part3.md)
 
-- Find the guidelines for representation of spatial data [here.](./resource-pages/spatial-data-representation-guidelines.md).
+- Find the guidelines for representation of spatial data [here.](./resource-pages/spatial-data-representation-guidelines.md)
 
 ### Ontology Flashcards
 

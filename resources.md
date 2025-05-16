@@ -6,12 +6,17 @@
 
 ### Best Practices
 
-- Find the Proto-OKN Best Practice Guidelines for Knowledhe Graph Constructiton:
+- Find the Proto-OKN Best Practice Guidelines for Knowledge Graph Constructiton:
   - [Part 1: Documentation, Axioms, RDF Validation](./resource-pages/graph-construction-guidelines.md)
   - [Part 2: Relations, Classes](./resource-pages/graph-construction-guidelines-part2.md)
   - [Part 3: FRINK Recommendations for Ontologies](./resource-pages/graph-construction-guidelines-part3.md)
 
-- Find the guidelines for representation of spatial data [here.](./resource-pages/spatial-data-representation-guidelines.md)
+- Find the Proto-OKN Guidelines for Representation of Spatial Data:
+  - [Representing Geometries, names of Administrative Regions, S2 Cells, Topological Relations and Validation](./resource-pages/spatial-data-representation-guidelines.md)
+
+- Find the Proto-OKN Guidelines for querying Census Data:
+  - [Utilizing Existing, External Databases and their integration with SPIDER](./resource-pages/cencus-wg-guidelines.md)
+
 
 ### Ontology Flashcards
 

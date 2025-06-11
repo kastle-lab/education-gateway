@@ -4,21 +4,19 @@ Below is a list of different personas we have obtained along Theme One projects 
 some pre-determined ones.
 1. [Enthusiast](#enthusiast)
 2. [Developer](#developer)
-3. [Darwin](#the-darwin)
-4. [Contributor](#contributor)
-5. [Executive](#executive)
-6. [Consultant](#consultant)
-7. [Collaborator](#collaborator)
-8. [Ontology/ Vocabulary Expert](#ontology-vocabulary-expert)
-9. [Educational Facilitator](#educational-facilitator)
-10. [Curriculum Developer](#curriculum-developer)
-11. [Resource Developer](#recourse-developer)
-12. [User Engagement Facilitator](#user-engagement-facilitator)
-13. [Security Analyst and Developer Trainer](#security-analyst-and-developer-trainer)
-14. [Supply Chain Engagement Specialist](#supply-chain-engagement-specialist)
-15. [KG Researcher](#kg-researcher)
-16. [Executive Engagement Specialist](#executive-engagement-specialist)
-
+3. [Contributor](#contributor)
+4. [Executive](#executive)
+5. [Consultant](#consultant)
+6. [Collaborator](#collaborator)
+7. [Ontology/ Vocabulary Expert](#ontology-vocabulary-expert)
+8. [Educational Facilitator](#educational-facilitator)
+9. [Curriculum Developer](#curriculum-developer)
+10. [Resource Developer](#recourse-developer)
+11. [User Engagement Facilitator](#user-engagement-facilitator)
+12. [Security Analyst and Developer Trainer](#security-analyst-and-developer-trainer)
+13. [Supply Chain Engagement Specialist](#supply-chain-engagement-specialist)
+14. [KG Researcher](#kg-researcher)
+15. [Executive Engagement Specialist](#executive-engagement-specialist)
 
 
 ## Enthusiast
@@ -50,9 +48,7 @@ Learning steps:
 - SPARQL query language, when and how to use it?
 - Validation of the KG through Apache Jena Fuseki.
 
-## The Darwin
-
-**Data Scientist**  
+**The Darwin** <br> **Data Scientist**  
 
 (Convincing perspective) I am a Data Scientist currently working in a corporate role mostly analyzing and sorting HR related data. While on a seminar my company sent me on regarding new data analysis tools, I got introduced to the KG usage. I am a bit skeptical as to how this will make any of my work easier but I would like to learn more about it and if I see its benefits I will apply it to my work.
 

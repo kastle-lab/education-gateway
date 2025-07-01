@@ -2,7 +2,7 @@
 
 Below are the Proto-OKN Masterlass Series videos:
 
-1. [Proto-OKN Masterclass: An Education Gateway (EduGate) to the Prototype Open Knowledge Network](https://www.youtube.com/watch?v=Q1L0_F44Bn8)
+1\. [Proto-OKN Masterclass: An Education Gateway (EduGate) to the Prototype Open Knowledge Network](https://www.youtube.com/watch?v=Q1L0_F44Bn8)
 
 - Cogan Shimizu discusses the Prototype Open Knowledge Network (Proto-OKN) and the Education Gateway (EduGate) project, which serves as an entry point to the Proto-OKN and is built upon the Curriculum Knowledge Graph (KG), a growing repository of educational materials.
 
@@ -12,7 +12,7 @@ Below are the Proto-OKN Masterlass Series videos:
 </div>
 
 
-2. [Proto-OKN Masterclass: Foundations and History of the Semantic Web](https://youtu.be/s3keGdYAf5Q?si=YDYLZcVvSp4s2WKk)
+2\. [Proto-OKN Masterclass: Foundations and History of the Semantic Web](https://youtu.be/s3keGdYAf5Q?si=YDYLZcVvSp4s2WKk)
 
 - Pascal Hitzler gives a brief overview of the 25+ years of history of the Semantic Web field. The field gained major traction in the early 2000s, with emphasis on research and applications of ontologies. Emphasis then shifted the Linked Data, published on the Web, in the late 00's, before the rise of a more comprehensive and integrated paradigm referred to as knowledge graphs, in the early 2010s. We close the overview with a brief discussion of the promises of Large Language Models in the context of Knowledge Graph and Ontology Engineering.
 
@@ -22,7 +22,7 @@ Below are the Proto-OKN Masterlass Series videos:
 </div>
 
 
-3. [Proto-OKN Masterclass: An Overview of the Supply and Demand Open Knowledge Network (SUDOKN)](https://www.youtube.com/watch?v=SAEAx9ec42E&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=4)
+3\. [Proto-OKN Masterclass: An Overview of the Supply and Demand Open Knowledge Network (SUDOKN)](https://www.youtube.com/watch?v=SAEAx9ec42E&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=4)
 
 - Farhad Ameri and Amar Yadav share information about the Supply and Demand Open Knowledge Network (SUDOKN)'s structure, function, and capabilities. Sample use cases are also discussed.
 

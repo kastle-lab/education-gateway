@@ -6,30 +6,40 @@
 
 ### Best Practices
 
-- Find the guidelines for graph constructiton:
-  - Part 1 [here](./resource-pages/graph-construction-guidelines.md)
-  - Part 2 [here](./resource-pages/graph-construction-guidelines-part2.md)
+- Find the Proto-OKN Best Practice Guidelines for Knowledge Graph Constructiton:
+  - [Part 1: Documentation, Axioms, RDF Validation](./resource-pages/graph-construction-guidelines.md)
+  - [Part 2: Relations, Classes](./resource-pages/graph-construction-guidelines-part2.md)
+  - [Part 3: FRINK Recommendations for Ontologies](./resource-pages/graph-construction-guidelines-part3.md)
 
-- Find the guidelines for representation of spatial data [here](./resource-pages/spatial-data-representation-guidelines.md).
+- Find the Proto-OKN Guidelines for Representation of Spatial Data:
+  - [Representing Geometries, names of Administrative Regions, S2 Cells, Topological Relations and Validation](./resource-pages/spatial-data-representation-guidelines.md)
+
+- Find the Proto-OKN Guidelines for querying Census Data:
+  - [Utilizing Existing, External Databases and their integration with SPIDER](./resource-pages/cencus-wg-guidelines.md)
+
 
 - Find the guidelines for querying Census Data [here](./resource-pages/census-data-guidelines.md).
 
 ### Ontology Flashcards
 
-- Find the ontology flashcard videos for educational purposes [here](./resource-pages/ontology-flashcards.md).
+- Find the ontology flashcard videos for educational purposes [here.](./resource-pages/ontology-flashcards.md)
+
+### Proto-OKN Masterclass
+
+- Find the Proto-OKN Masterclass videos [here.](./resource-pages/Proto-OKN-Masterclass-Series.md)
 
 ### Personas
 
-- Find the personas [here](./resource-pages/personas.md).
+- Find the personas [here.](./resource-pages/personas.md)
 
 ### Open Knowledge Graph Curriculum
 
-- Find the repository resources [here](https://github.com/KGConf/open-kg-curriculum).
+- Find the repository resources [here.](https://github.com/KGConf/open-kg-curriculum)
 
 ### Drawbridge
 
-- Find the Kastle Drawbridge resources [here](https://github.com/kastle-lab/kastle-drawbridge).
+- Find the Kastle Drawbridge resources [here.](https://github.com/kastle-lab/kastle-drawbridge)
 
 ### Seminar-Schedule
 
-- Find the Seminar Schedule [here](./resource-pages/seminar-schedule.md).
+- Find the Seminar Schedule [here.](./resource-pages/seminar-schedule.md)

@@ -7,7 +7,7 @@
 * [**Florence Hudson**](https://datascience.columbia.edu/people/florence-hudson/) <br /> [Executive Director for the Northeast Big Data Innovation Hub](https://nebigdatahub.org/) <br /> [Columbia University](https://www.columbia.edu)
 * [**François Scharffe**](https://lechatpito.github.io/)
 * **Hugues(Hugo) Seureau** <br /> App Lead at KnowHax and Founder at GenHax
-* **Muru C.Willson** <br /> KGC's Chief Learning Officer
+* **Maru C.Willson** <br /> KGC's Chief Learning Officer
 * **Thomas Deeley**
 
 ### Team Members

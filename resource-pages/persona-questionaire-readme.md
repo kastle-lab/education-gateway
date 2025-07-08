@@ -25,5 +25,5 @@ needs. Find the established Personas [here.](./personas.md)
 
 ### Questionaire link and more resources
 
-* Please take [this](https://docs.google.com/forms/d/1JBV8TYilILLhtseALWkWLWqZvjSkVavGlWtuUNN_rss/edit) quick questionaire in order to identify your learning objectives and background information.
+* Please take [this](https://docs.google.com/forms/d/e/1FAIpQLSe12D_5wTw0m5M6La6vTGtkTg5gLLRIFyQt-Wy_0ckuOqnJTA/viewform?usp=sharing&ouid=112802012794296679323) quick questionaire in order to identify your learning objectives and background information.
 * More details about how is the [code](https://script.google.com/u/0/home/projects/1zwGkPdk4qFG0dQLCouNrJuhHH-sO4hEP7y7YoPAPFuVGOgTooFQgg2XA/edit?pli=1) working can be found [here.](./google-persona-questionaire-analysis-readme.md)

@@ -4,7 +4,7 @@
 The EduGate Onboarding Questionnaire is designed to categorize respondents based on
 their background, knowledge level, and intended use of Knowledge Graphs (KGs). The
 assessment will help align onboarding materials and training resources with user
-needs.
+needs. Find the established Personas [here.](./personas.md)
 
 ### Assessment Process
 1. Collect Responses

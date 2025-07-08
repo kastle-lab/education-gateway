@@ -28,7 +28,8 @@
 
 ### Personas
 
-- When it comes to organizing educational materials, personalization is key. Find more information about our **Persona** Identification questionaire [here.](./resource-pages/persona-questionaire-readme.md)
+- When it comes to organizing educational materials, personalization is key. Find more information about our **Persona** Identification questionaire [here.](./resource-pages/persona-questionaire-readme.md) 
+- Take a look at our established Personas [here](./resource-pages/personas.md)
 
 ### Open Knowledge Graph Curriculum
 

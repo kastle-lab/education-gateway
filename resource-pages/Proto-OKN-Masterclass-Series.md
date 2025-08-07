@@ -8,8 +8,7 @@ Below are the Proto-OKN Masterlass Series videos:
 
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1L0_F44Bn8?si=Zu-qraGfD3ozJvLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  
-</div>
+  </div>
 
 
 2. [Proto-OKN Masterclass: Foundations and History of the Semantic Web](https://youtu.be/s3keGdYAf5Q?si=YDYLZcVvSp4s2WKk)
@@ -18,8 +17,7 @@ Below are the Proto-OKN Masterlass Series videos:
 
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/s3keGdYAf5Q?si=oD75_xj_zm9ilP0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  
-</div>
+  </div>
 
 
 3. [Proto-OKN Masterclass: An Overview of the Supply and Demand Open Knowledge Network (SUDOKN)](https://www.youtube.com/watch?v=SAEAx9ec42E&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=4)
@@ -28,8 +26,7 @@ Below are the Proto-OKN Masterlass Series videos:
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SAEAx9ec42E?si=WPknuqLHORuUzRkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</div>
+ </div>
 
 4. [Proto-OKN Masterclass: A Technical Review of the Supply and Demand Open Knowledge Network (SUDOKN)](https://www.youtube.com/watch?v=TKOCmPfxerE&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=3)
 
@@ -37,8 +34,7 @@ Below are the Proto-OKN Masterlass Series videos:
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKOCmPfxerE?si=afLmio1vT2cjPa49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</div>
+ </div>
 
 5. [Proto-OKN Masterclass: An Overview of KN-Wildlife Project](https://www.youtube.com/watch?v=mz6If0FlJy8&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=2)
 
@@ -46,8 +42,7 @@ Below are the Proto-OKN Masterlass Series videos:
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mz6If0FlJy8?si=Jbtt4D-wYJoSpf1O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</div>
+ </div>
 
 6. [Proto-OKN Masterclass: A Technical Review of the KN-Wildlife Project](https://www.youtube.com/watch?v=tqoCe2Avdqc&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=1)
 
@@ -55,6 +50,42 @@ Below are the Proto-OKN Masterlass Series videos:
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tqoCe2Avdqc?si=QeseBwvpofWoNYdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </div>
 
-</div>
 
+7. [Proto-OKN Masterclass: A Technical Review of the SPIDER Project](https://www.youtube.com/watch?v=JbkgaZc2guU&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=6)
+
+- Volkmar Frinken of Onai provides a technical overview of the SPIDER: Scalable Public Infrastructure for Distributed Entity Relationships.
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JbkgaZc2guU?si=-RdyYRdr_hbSdrMN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </div>
+
+
+  Below there are demos showcasing how SPIDER is interracting across the different Proto-OKN projects: 
+
+
+- [SecureChain Demo with SPIDER](https://www.youtube.com/watch?v=JSiAEiYtNAs&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=5)
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JSiAEiYtNAs?si=EpeJCGHkFynm-59l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </div>
+
+
+- [SUDOKN Demo with SPIDER](https://www.youtube.com/watch?v=prD3TSH1tdk&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=4)
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/prD3TSH1tdk?si=2rVOCWGKy2FRqxpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </div>
+
+- [CollabNext Demo with SPIDER](https://www.youtube.com/watch?v=7Y-GAvj0zVo&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=2)
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Y-GAvj0zVo?si=LI-x1sv93-zhNXj3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </div>
+
+- [WEN-OKN Demo with SPIDER](https://www.youtube.com/watch?v=Kxp1LTV0LoU&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=1)
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kxp1LTV0LoU?si=dOQSXPPu0jHn3kxb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </div>

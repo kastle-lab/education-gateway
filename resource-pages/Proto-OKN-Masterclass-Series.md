@@ -61,31 +61,69 @@ Below are the Proto-OKN Masterlass Series videos:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JbkgaZc2guU?si=-RdyYRdr_hbSdrMN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </div>
 
+ 8. [Proto-OKN Masterclass: A Project Overview of the Integrated Justice Platform (IJP)](https://www.youtube.com/watch?v=29a9I_qc_RU&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=14)
+
+ - Kat Albrecht and Adam Pah share information about the Integrated Justice Platform (IJP)'s structure, function, and capabilities.
+
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/29a9I_qc_RU?si=DH0hpqtPlSPOunBC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+9. [Proto-OKN Masterclass: A Technical Review of the Integrated Justice Platform (IJP)](https://www.youtube.com/watch?v=za9YXrFvX8w&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=14)
+
+- Adam Pah and Kat Albrecht share information about the Integrated Justice Platform (IJP)'s queries, knowledge alignment, data flows, and more.
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/za9YXrFvX8w?si=78e3QRSNx1oFZpzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+10. [Proto-OKN Masterclass: A Project Overview of the FRINK Project](https://www.youtube.com/watch?v=kszqRYr-SzE&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=16)
+
+- Chris Bizon of RENCI provides an overview of the FRINK project, knowledge graphs, and engagement opportunities.
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kszqRYr-SzE?si=OvmxOeNt3Z0gAXoe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+
+11. [Proto-OKN Masterclass: A Technical Review of the FRINK Project](https://www.youtube.com/watch?v=NVnmWT6mjVQ&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=16)
+
+- Jim Balhoff of RENCI provides a closer look at the technical features of FRINK, including query APIs, graph technology, and future directions.
+
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NVnmWT6mjVQ?si=5ex53Whxpix0acr6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
 
   Below there are demos showcasing how SPIDER is interracting across the different Proto-OKN projects: 
 
 
-- [SecureChain Demo with SPIDER](https://www.youtube.com/watch?v=JSiAEiYtNAs&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=5)
+1. [SecureChain Demo with SPIDER](https://www.youtube.com/watch?v=JSiAEiYtNAs&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=5)
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JSiAEiYtNAs?si=EpeJCGHkFynm-59l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </div>
 
 
-- [SUDOKN Demo with SPIDER](https://www.youtube.com/watch?v=prD3TSH1tdk&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=4)
+2.  [SUDOKN Demo with SPIDER](https://www.youtube.com/watch?v=prD3TSH1tdk&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=4)
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/prD3TSH1tdk?si=2rVOCWGKy2FRqxpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </div>
 
-- [CollabNext Demo with SPIDER](https://www.youtube.com/watch?v=7Y-GAvj0zVo&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=2)
+3. [CollabNext Demo with SPIDER](https://www.youtube.com/watch?v=7Y-GAvj0zVo&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=2)
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Y-GAvj0zVo?si=LI-x1sv93-zhNXj3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </div>
 
-- [WEN-OKN Demo with SPIDER](https://www.youtube.com/watch?v=Kxp1LTV0LoU&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=1)
+4. [WEN-OKN Demo with SPIDER](https://www.youtube.com/watch?v=Kxp1LTV0LoU&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=1)
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kxp1LTV0LoU?si=dOQSXPPu0jHn3kxb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </div>
+
+
+

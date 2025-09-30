@@ -6,9 +6,8 @@ Below are the Proto-OKN Masterlass Series videos:
 
 - Cogan Shimizu discusses the Prototype Open Knowledge Network (Proto-OKN) and the Education Gateway (EduGate) project, which serves as an entry point to the Proto-OKN and is built upon the Curriculum Knowledge Graph (KG), a growing repository of educational materials.
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1L0_F44Bn8?si=Zu-qraGfD3ozJvLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1L0_F44Bn8?si=Zu-qraGfD3ozJvLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 2. [Proto-OKN Masterclass: Foundations and History of the Semantic Web](https://youtu.be/s3keGdYAf5Q?si=YDYLZcVvSp4s2WKk)

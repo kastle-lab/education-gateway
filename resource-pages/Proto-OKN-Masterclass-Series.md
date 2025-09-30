@@ -14,9 +14,9 @@ Below are the Proto-OKN Masterlass Series videos:
 
 - Pascal Hitzler gives a brief overview of the 25+ years of history of the Semantic Web field. The field gained major traction in the early 2000s, with emphasis on research and applications of ontologies. Emphasis then shifted the Linked Data, published on the Web, in the late 00's, before the rise of a more comprehensive and integrated paradigm referred to as knowledge graphs, in the early 2010s. We close the overview with a brief discussion of the promises of Large Language Models in the context of Knowledge Graph and Ontology Engineering.
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/s3keGdYAf5Q?si=oD75_xj_zm9ilP0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3keGdYAf5Q?si=oD75_xj_zm9ilP0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 3. [Proto-OKN Masterclass: An Overview of the Supply and Demand Open Knowledge Network (SUDOKN)](https://www.youtube.com/watch?v=SAEAx9ec42E&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=4)

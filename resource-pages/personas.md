@@ -187,8 +187,9 @@ Learning Steps:
 
 **The Elias**
 
- I am an Educational Facilitator for the IJP  Theme. I need to be able to learn about KGs in a theoretical and practical level so I can also educate high-interest users, including faculty and graduate students, seeking expansion of computational tools. 
+I am an Educational Facilitator for the [Integrated Justice Platform (IJP)](https://scales-okn.org/integrated-justice-project/) Theme, working at the intersection of education, data science, and social impact. My role involves bridging the gap between the technical team developing the platform and the educators, researchers, and practitioners who will use it to drive data-informed insights. I engage with high-interest users—including faculty, graduate students, and policy professionals—who are eager to understand and apply computational tools in their work but may need guidance in navigating complex data environments. As an educator, my goal is to translate the sophisticated technical infrastructure of the IJP into clear, usable knowledge that fosters both curiosity and capability among diverse audiences.
 
+Elias background in knowledge graphs is limited, so I need a learning path that begins with the fundamentals of RDF, ontologies, and linked data, and progresses to hands-on work in building and querying graphs.
 Learning Steps:
 
 - [What is a Knowledge Graph.](https://github.com/KGConf/open-kg-curriculum/tree/master/curriculum/modules/What_is_a_Knowledge_Graph)
@@ -208,7 +209,9 @@ Learning Steps:
 
 **The Cameron**
 
- I am a Curriculum Developer for the DREAM-KG  Theme. I need to be able to learn about KGs in a theoretical level so I can construct a curriculum for any undergraduate and graduate students, particularly those majoring in social work.
+ am a Curriculum Developer for the [DREAM-KG](https://dreamkg.com) Theme, focused on designing educational materials that connect data science with social impact. My role centers on building a curriculum that helps undergraduate and graduate students; especially those in social work understand how computational tools can be used to address complex social issues like homelessness. I have experience developing learning modules that make technical subjects accessible to diverse audiences, but my direct experience with knowledge graphs is limited. I am motivated by the opportunity to translate the technical framework of DREAM-KG into clear, meaningful educational pathways that empower students to apply data-driven approaches to real-world social problems.
+
+ My knowledge of knowledge graph theory and ontology modeling is at an early stage, and I need a structured foundation to build from. I want to learn the theoretical aspects of KGs, including their semantic structure, ontology design, and how they represent interconnected social data.
 
  Learning Steps:
 

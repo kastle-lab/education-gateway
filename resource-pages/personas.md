@@ -228,7 +228,9 @@ Learning Steps:
 
 **The Ronnie**
 
-I am a Resource Developer for the Health and Justice  Theme. I need to be able to learn about KGs in a theoretical and practical  level so I can create resources  to address frequently asked questions about KGs and SPARQL. That also includes any tools that are used for creation/deployment/validation.
+I am a Resource Developer for the [Health and Justice](https://sail-ua.github.io/okn-page/)  Theme. I plan to learn both the theory and practice of Knowledge Graphs so I can create clear and useful guides for people who are new to this area. My goal is to explain what Knowledge Graphs are, how SPARQL works, and why they matter for health and justice research. I intend to explore tools used for building, validating, and deploying Knowledge Graphs, and document my learning process. I also plan to create tutorials, examples, and FAQs to help others apply these tools. My end goal is to design simple workflows that make Knowledge Graphs easier to use and understand.
+
+My background in public health and community outreach has given me experience working with data related to social and health issues, but my understanding of knowledge graph theory and ontology modeling is still at an early stage. I want to build a strong foundation in how KGs represent connected data, design meaningful ontologies, and apply these skills to real-world health and justice projects.
 
 Learning Steps:
 
@@ -243,6 +245,7 @@ Learning Steps:
 - What is a TTL file, how to read it ?
 - [SPARQL query language, when and how to use it ? ](https://github.com/KGConf/open-kg-curriculum/tree/master/curriculum/modules/SPARQL)
 - [Validation of the KG through Apache Jena Fuseki.](https://github.com/KGConf/open-kg-curriculum/tree/master/curriculum/modules/Survey_of_Triplestores)
+
 
 
 ## User Engagement Facilitator
@@ -266,11 +269,14 @@ Learning Steps:
 - [Validation of the KG through Apache Jena Fuseki.](https://github.com/KGConf/open-kg-curriculum/tree/master/curriculum/modules/Survey_of_Triplestores)
 - Showcasing the tool.
 
+
 ## Security Analyst and Developer Trainer
 
 **The Stella**
 
-I am a Security Analyst for the Knowledge Graph Construction for Resilient, Trustworthy, and Secure Software Supply Chains  Theme. I need to be able to learn about KGs on a practical  level so I can develop a visual programming tool for developers unfamiliar with SPARQL, complemented by a SPARQL editor and a natural language querying tool.
+I am a Security Analyst for the [Knowledge Graph Construction for Resilient, Trustworthy, and Secure Software Supply Chains](https://purdue-hcss.github.io/nsf-software-supply-chain_security/)  Theme. I’m part of a team that’s building tools to help software developers and security engineers better understand the dependencies, vulnerabilities, and risks in their supply chains. My project is to create a visual programming tool so that people who don’t know SPARQL can still graphically build queries and explore connections. Alongside that, I’m developing a SPARQL editor with helpful feedback, and a natural-language interface so users can ask questions in plain English and get answers from our knowledge graph.
+
+I studied computer science and have worked in software security for five years, particularly in risk assessment of third-party components. Though I’ve built threat models, done code audits, and used relational databases, I’ve only recently started working with knowledge graphs.
 
 Learning Steps:
 
@@ -292,7 +298,9 @@ Learning Steps:
 
 **The Silas**
 
-I am a Supply Chain Engagement Specialist for the SUDOKN Theme. I need to be able to learn about KGs on theoretical and shallow level so I manage to engage manufacturers by demonstrating the power of global connections through KGs, while keeping the underlying ontology hidden to avoid overwhelming users.
+I am a Supply Chain Engagement Specialist for the [Supply and Demand Open Knowledge Network (SUDOKN)](https://projects.engineering.asu.edu/sudokn/) Theme. My work focuses on helping manufacturers, especially small and medium enterprises, understand how shared data and global knowledge connections can strengthen supply networks. I plan to learn about Knowledge Graphs at a conceptual level so I can explain their value without exposing complex technical layers. My goal is to use SUDOKN’s tools to visually demonstrate how suppliers, materials, and capabilities connect across industries. I also hope to collect feedback from manufacturers and translate it into user-friendly engagement strategies that make data collaboration more approachable.
+
+I come from a background in manufacturing partnerships and digital supply chain management, where I helped companies improve visibility and collaboration.
 
 Learning Steps:
 
@@ -307,7 +315,9 @@ Learning Steps:
 
 **The Kai**
 
-I am a Data-Centric Knowledge Graph Researcher, exploring how KGs can enrich my work in data science, NLP, and machine learning. I need to learn about KG construction and tools, so I can apply this knowledge to research projects in soil carbon and agriculture ecosystems. I’m looking for easy-to-use interfaces and practical guides to start exploring and creating KGs.
+II am a Data-Centric Knowledge Graph Researcher, passionate about combining data science, NLP, and machine learning to better understand complex environmental systems. My current focus is on soil carbon and agricultural ecosystems, where data comes from many sources, formats, and scales. I first came across Knowledge Graphs while trying to integrate datasets from satellite imagery, field measurements, and literature, and realized traditional databases couldn’t capture all the relationships. A colleague introduced me to KGs, showing how they can model connections semantically. I plan to learn how to construct and use KGs so I can integrate diverse data, uncover hidden relationships, and support richer analyses. I am looking for user-friendly tools, practical guides, and hands-on tutorials that allow me to experiment with KG creation and querying, translating complex environmental datasets into actionable insights for research and policy decisions.
+
+I have a strong foundation in data science, including statistical modeling, machine learning, and NLP for extracting insights from large datasets. My experience spans environmental data collection, processing, and analysis, but I am new to Knowledge Graphs.s
 
 Learning Steps:
 
@@ -321,7 +331,9 @@ Learning Steps:
 
 **The Ella**
 
-I am an Executive Engagement Specialist working with a team focused on promoting the business value of Knowledge Graphs (KGs) to executives. I need to communicate the strategic advantages of KGs, such as their ability to act as digital twins, without overwhelming them with technical details. My goal is to showcase the outcomes and benefits through high-level, accessible materials that resonate with their business objectives.
+I am an Executive Engagement Specialist working with a team focused on promoting the business value of Knowledge Graphs (KGs) to executives. I first encountered KGs while preparing a presentation on digital transformation, and I realized that executives were intrigued by their potential but often overwhelmed by technical details. I need to communicate the strategic advantages of KGs, such as their ability to act as digital twins, map complex organizational knowledge, and support better decision-making, in a clear and accessible way. My goal is to create high-level visualizations, case studies, and success stories that highlight outcomes and benefits aligned with business objectives.
+
+I have a background in business strategy and corporate communications, with experience helping executives understand emerging technologies and their impact on operations. While I am familiar with data analytics and enterprise systems, my experience with Knowledge Graphs is limited.
 
 Learning Steps:
 - Understanding Digital Twins: Highlight how KGs can act as digital twins, providing a comprehensive and real-time representation of data and processes, which is a concept many executives are familiar with.

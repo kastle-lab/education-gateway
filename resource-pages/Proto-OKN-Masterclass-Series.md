@@ -96,6 +96,33 @@ Below are the Proto-OKN Masterlass Series videos:
 </div>
 
 
+12. [Proto-OKN Masterclass: A Project Overview of the SecureChain Project](https://www.youtube.com/watch?v=PVErfUXS0dI)
+
+-  Tianyi Zhang provides an overview of the SecureChain project - A Large-Scale Knowledge Graph for Software Supply Chain Security. Tianyi explains the knowledge graph's use cases, value proposition, and future vision.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PVErfUXS0dI?si=Qpnyzq-4YIMiILCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+13. [Proto-OKN Masterclass: A Technical Review of the SecureChain Project](https://www.youtube.com/watch?v=ymuq3U5ht0w)
+
+- Tianyi Zhang provides a technical review of the SecureChain project - A Large-Scale Knowledge Graph for Software Supply Chain Security. Tianyi explains the ontology's design, entity resolution, a visual query interface, and more!
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ymuq3U5ht0w?si=7T2azqHfpJP0TKVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+14. [Proto-OKN Masterclass: A Project Overview of the BioBricks Project](https://www.youtube.com/watch?v=tEB63U7V5yU)
+
+-  Tom Luechtefeld provides an overview of the BioBricks-OKG project - a knowledge graph for chemical safety and toxicology. Tom covers agentic systems for toxicology, data retrieval, and live demos of tools like Toxindex.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tEB63U7V5yU?si=9U6OsICOlhK943g-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+
   Below there are demos showcasing how SPIDER is interracting across the different Proto-OKN projects: 
 
 

@@ -130,6 +130,16 @@ Below are the Proto-OKN Masterlass Series videos:
 </div>
 
 
+16. [Proto-OKN Masterclass: A Project Overview of the DREAM-KG Project](https://www.youtube.com/watch?v=S-pOfgtU4ik)
+
+- Yuzhou Chen, Chenguang Yang, and Javad M Alzadeh provide an overview of the DREAM-KG project. The DREAM-KG project is designed to develop Dynamic, REsponsive, Adaptive, and Multifaceted Knowledge Graphs to address homelessness with Explainable AI.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/S-pOfgtU4ik?si=HxDvcEtCq3kxSAU9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
 
   Below there are demos showcasing how SPIDER is interracting across the different Proto-OKN projects: 
 

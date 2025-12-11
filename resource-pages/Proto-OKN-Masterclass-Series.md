@@ -8,7 +8,7 @@ Below are the Proto-OKN Masterlass Series videos:
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1L0_F44Bn8?si=Zu-qraGfD3ozJvLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+<br>
 
 2. [Proto-OKN Masterclass: Foundations and History of the Semantic Web](https://youtu.be/s3keGdYAf5Q?si=YDYLZcVvSp4s2WKk)
     
@@ -16,7 +16,7 @@ Below are the Proto-OKN Masterlass Series videos:
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/s3keGdYAf5Q?si=oD75_xj_zm9ilP0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+<br>
 
 3. [Proto-OKN Masterclass: An Overview of the Supply and Demand Open Knowledge Network (SUDOKN)](https://www.youtube.com/watch?v=SAEAx9ec42E&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=4)
 

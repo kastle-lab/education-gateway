@@ -129,13 +129,104 @@ Below are the Proto-OKN Masterlass Series videos:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0Tx27vZMWpE?si=isDtNZqL5gMu27fo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+16. [Proto-OKN Masterclass: A Technical Review of the SAWGraph Project - Querying the SAWGraph](https://www.youtube.com/watch?v=hysIlKUwhR4&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=29)
 
-16. [Proto-OKN Masterclass: A Project Overview of the DREAM-KG Project](https://www.youtube.com/watch?v=S-pOfgtU4ik)
+-  Torsten Hahmann, Katrina Schweikert, David Kedrowski, Kendall Phillips, and Adrita Barua provide a technical review of the SAWGraph Project - An OKN to Monitor and Trace PFAS and Other Contaminants in the Nation's Food and Water Systems, diving deeper into sample queries and use cases.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hysIlKUwhR4?si=08tAczBaHZLKRJEm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+17. [Proto-OKN Masterclass: A Technical Review of the SAWGraph Project - The SAWGraph Ontologies](https://www.youtube.com/watch?v=0Tx27vZMWpE&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=24)
+
+- Torsten Hahmann, Yinglun Zhang, Katrina Schweikert, David Kedrowski, and Adrita Barua provide a technical review of the SAWGraph Project - An OKN to Monitor and Trace PFAS and Other Contaminants in the Nation's Food and Water Systems.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0Tx27vZMWpE?si=PKBJs_YX44czlMLT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+18. [Proto-OKN Masterclass: A Project Overview of the DREAM-KG Project](https://www.youtube.com/watch?v=S-pOfgtU4ik)
 
 - Yuzhou Chen, Chenguang Yang, and Javad M Alzadeh provide an overview of the DREAM-KG project. The DREAM-KG project is designed to develop Dynamic, REsponsive, Adaptive, and Multifaceted Knowledge Graphs to address homelessness with Explainable AI.
 
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/S-pOfgtU4ik?si=HxDvcEtCq3kxSAU9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+19. [Proto-OKN Masterclass: A Project Overview of the NIKG Project](https://www.youtube.com/watch?v=cv1dqEDYVjY&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=20&t=3s)
+
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cv1dqEDYVjY?si=ZK1SzSIo_bMUztbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+  
+- Jing Gao, Jingbo Shang, and Daniel Semenza provide an overview of the NIKG project - A Knowledge Graph Warehouse for Neighborhood Information. The team covers data sources, data integration, and the impacts of their work!
+
+
+20. [Proto-OKN Masterclass: A Technical Review of the NIKG Project](https://www.youtube.com/watch?v=Mv6_I_Tla6A&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=21)
+
+- Jingbo Shang, and Daniel Semenza provide a technical review of the NIKG project - A Knowledge Graph Warehouse for Neighborhood Information. The team covers techniques on how to construct, utilize, and maintain the knowledge graph warehouse. 
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Mv6_I_Tla6A?si=HX4hn7QvwGvg56HF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+21. [Proto-OKN Masterclass: A Project Overview of the RURAL-KG Project](https://www.youtube.com/watch?v=Dx9a6rn_rcA&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=22)
+
+- Jiaqi Gong provides an overview of the RURAL-KG Project: Creating a Cross-Domain Knowledge Graph to Integrate Health and Justice for Rural Resilience. Jiaqi covers the project's motivation, system architecture, and value proposition.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Dx9a6rn_rcA?si=TSgU6pxIxMuynagj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+22. [Proto-OKN Masterclass: A Technical Review of the RURAL-KG Project](https://www.youtube.com/watch?v=SmZoYs-jFp0&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=23)
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SmZoYs-jFp0?si=IiFBpE8lI6coVdwL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+23. [Proto-OKN Masterclass: A Technical Review of the SOCKG Project](https://www.youtube.com/watch?v=kH4BCtEFnW0&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=26)
+
+- Nasim Shirvani Mahdavi provides a technical review of the SOCKG project. Nasim shares information about queries, SOCKG data cube, ontology documentation generation, and more. 
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kH4BCtEFnW0?si=rc3XHlcxKthjVADQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+24. [Proto-OKN Masterclass: A Project Overview of the SOCKG Project](https://www.youtube.com/watch?v=3QKuo-wXO6Q&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=25)
+
+- Chengkai Li provides an overview of the SOCKG Project: A Soil Organic Carbon Knowledge Graph. Chengkai covers the carbon cycle, carbon farming practices, measurements and statistics. 
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3QKuo-wXO6Q?si=fWukJXZjzXJsBjsa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+25. [Proto-OKN Masterclass: A Project Overview of the ClimatePub4KG Project](https://www.youtube.com/watch?v=8Y4nu9Bql68&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=31)
+
+- Aayush Acharya shares information about the ClimatePub4KG project, including its motivation, data sources, and key use cases.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8Y4nu9Bql68?si=AygJnnVR3u85wPj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+26. [Proto-OKN Masterclass: A Technical Review of the ClimatePub4KG Project](https://www.youtube.com/watch?v=1kQ5XqJV0X8&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=32)
+
+- Aayush Acharya shares information about the ClimatePub4KG project, covering ontology creation, knowledge graph instruction, and queries.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1kQ5XqJV0X8?si=NY_aQPa4lHjvHXVd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+27. [Proto-OKN Masterclass: A Project Overview of the SPOKE Project](https://www.youtube.com/watch?v=vlWXvxyxQog&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=27)
+
+-  Sergio Baranzini provides an overview of the SPOKE Project: Connecting Biomedical Information on Earth and in Space via the SPOKE Knowledge Graph. Sergio discusses the project's current ecosystem, overall goals, information embedding, and more.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vlWXvxyxQog?si=Nj-jfQ6N5bu1iNik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
@@ -167,6 +258,12 @@ Below are the Proto-OKN Masterlass Series videos:
 
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Kxp1LTV0LoU?si=dOQSXPPu0jHn3kxb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+5. [SOCKG Demo with SPIDER](https://www.youtube.com/watch?v=oF3CKbGDg5E&list=PLNs9ZO9jGtUCmh7Ss7Rza8o_1GHeYPiE7&index=5)
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/oF3CKbGDg5E?si=XL_cc3gD49dRxkc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 

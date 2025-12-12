@@ -15,6 +15,8 @@ Below is the compilation of the ontology flashcard videos for educational purpos
   </iframe>
 </div>
 
+---------------------
+
 * [Ontology Flashcard #2: "How is an Ontology Designed?".](https://youtu.be/pcAGVno_kYA?si=tqhHwV0RDs_aJkXw)
   - In summary, Ontology Design - the art and science of constructing the blueprint of knowledge. The design of an ontology dictates how effectively it can organize and interpret complex information.
 <div style="text-align: center;">
@@ -28,6 +30,8 @@ Below is the compilation of the ontology flashcard videos for educational purpos
   </iframe>
 </div>
 
+---------------------------------
+
 * [Ontology Flashcard #3: "How do we use Ontologies?".](https://youtu.be/mmbdmo_GG48?si=27dzvWwxwp1cgiqY)
   - In summary, this episode focuses on how these theoretical structures are brought to life in practical scenarios. We'll see how ontologies and their terms serve as the backbone for managing and interpreting complex data.
 <div style="text-align: center;">
@@ -40,6 +44,8 @@ Below is the compilation of the ontology flashcard videos for educational purpos
           allowfullscreen>
   </iframe>
 </div>
+
+--------------------------------
 
 * [Ontology Flashcard #4: "What is Semantic Entity Matching?".](https://youtu.be/ahgAFEyymBw?si=pUh8UDkn3ar9GXcK)
   - In summary "semantic" refers to the meaning and interpretation of words and phrases in context. It's about understanding the deeper meanings and relationships beyond just the surface-level words. It is not just about linking data points; it's about understanding the deep-seated meanings and contexts behind these connections.

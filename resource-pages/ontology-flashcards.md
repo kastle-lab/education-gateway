@@ -2,11 +2,11 @@
 
 Below is the compilation of the ontology flashcard videos for educational purposes.
 
-1. [Ontology Flashcard #1: "What is a Project Ontology?".](https://youtu.be/5Lj76uJwL3c?si=LdcZzCKqeY3mKkrW)
-- In summary, a Project Ontology is a structured data artifact that organizes and defines the relationships between concepts within a specific domain, enabling both humans and machines to better understand and process complex information. It serves as the foundation for building more efficient and intelligent knowledge-based systems. In upcoming episodes, we'll explore in greater detail how to develop these frameworks, identifying and defining key notions and concepts.
+* [Ontology Flashcard #1: "What is a Project Ontology?".](https://youtu.be/5Lj76uJwL3c?si=LdcZzCKqeY3mKkrW)
+  - In summary, a Project Ontology is a structured data artifact that organizes and defines the relationships between concepts within a specific domain, enabling both humans and machines to better understand and process complex information. It serves as the foundation for building more efficient and intelligent knowledge-based systems. In upcoming episodes, we'll explore in greater detail how to develop these frameworks, identifying and defining key notions and concepts.
 <div style="text-align: center;">
   <iframe width="440" height="248" 
-          src="https://www.youtube.com/embed/5Lj76uJwL3c" 
+          src="https://www.youtube.com/embed/Q1L0_F44Bn8?si=Zu-qraGfD3ozJvLh" 
           title="Ontology Flashcard #1: What is a Project Ontology?" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -15,8 +15,8 @@ Below is the compilation of the ontology flashcard videos for educational purpos
   </iframe>
 </div>
 
-2. [Ontology Flashcard #2: "How is an Ontology Designed?".](https://youtu.be/pcAGVno_kYA?si=tqhHwV0RDs_aJkXw)
-- In summary, Ontology Design - the art and science of constructing the blueprint of knowledge. The design of an ontology dictates how effectively it can organize and interpret complex information.
+* [Ontology Flashcard #2: "How is an Ontology Designed?".](https://youtu.be/pcAGVno_kYA?si=tqhHwV0RDs_aJkXw)
+  - In summary, Ontology Design - the art and science of constructing the blueprint of knowledge. The design of an ontology dictates how effectively it can organize and interpret complex information.
 <div style="text-align: center;">
   <iframe width="440" height="248" 
           src="https://www.youtube.com/embed/pcAGVno_kYA" 

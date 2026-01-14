@@ -23,9 +23,10 @@ some pre-determined ones.
 
 **The Ethan** <br> **Graduate Student**
 
-I am a college graduate student pursuing my thesis. My research is in biomedical engineering but the path my research is taking requires the use of Knowledge Graphs! I strive to have the tools to know how to deploy every aspect of my research, however, I currently lack the knowledge and background needed to implement the Knowledge Graph part of my research. I am a visual learner, but I don't have a lot of time to spare to take the university courses that could help catch me up to where I need to be. I need something that can teach me the basics but I also need it to fit into my busy research schedule.
+I am a second-year graduate student pursuing my thesis in biomedical engineering. I am a  GTA for a biomaterials lab this semester, and I am currently working on 3 other projects with various colleagues. My domain of research is in oncology with a focus on precision medicine, where I believe that there is potential for the use of an ontology! I currently have disparate patient data with which I can make a holistic model, but i am not sure how to integrate ontology into my research. I have no background in computer science, with only a little coding experience. I would need to learn the fundamentals of knowledge graph construction and the practices that go into creating a good ontology.  I would prefer to learn about ontologies on my own time without the need to enroll in a course, I have a busy schedule so I need the delivery to be flexible. I enjoy learning thorugh visually methods rather than solely verbal delivery, with in-depth working examples.  
 
-For someone with a similar background, who has no previous knowledge of what a knowledge graph is or how to use one the optimal learning path would be:
+
+Evans' background in ontology is minimal, meaning that he needs a learning path that will start him at the fundamentals and walk with him through the entire construction process. Evan and those with similar backgrounds would benefit from the following learning path: 
 
 Learning Steps:
 
@@ -33,11 +34,14 @@ Learning Steps:
 - [What is Metadata](https://github.com/KGConf/open-kg-curriculum/tree/master/curriculum/modules/What_is_Metadata)
 - [Deploying a Knowledge Graph](https://github.com/KGConf/open-kg-curriculum/tree/master/curriculum/modules/Deploying_a_Knowledge_Graph)
 
+This learning path would provide Evan with the necessary insights that he can use to develop the ontology he would need for his research. 
+
+
 ## Developer 
 
 **The Debbie** <br> **Data Scientist / Engineer**
 
-(Reskilling/ Upskilling perspective) I am a Data Scientist/ Engineer currently taking a new position on a cool project called KnowWhereGraph! As a developer, I am proficient in Python and C++ while also having an understanding of Set Theory and Propositional Knowledge. While taking this new role in this project, I must add to my skills and preliminary knowledge to familiarize myself with Knowledge Graphs (KGs) both in theory but in practice.
+I am a Data Scientist/ Engineer currently taking a new position on a cool project called KnowWhereGraph! Throughout my career I have been exposed to various languages such as Python and C++. I have also gained an understanding of Set Theory and Propositional Knowledge. I am interested in furthering my knowledge repertoire, and this new role will add to my skills and preliminary knowledge further familiarizing myself with Knowledge Graphs (KGs), both in theory and in practice.
 
 Learning Steps:
 
@@ -55,7 +59,7 @@ Learning Steps:
 
 **The Darwin** <br> **Data Scientist**  
 
-(Convincing perspective) I am a Data Scientist currently working in a corporate role mostly analyzing and sorting HR related data. While on a seminar my company sent me on regarding new data analysis tools, I got introduced to the KG usage. I am a bit skeptical as to how this will make any of my work easier but I would like to learn more about it and if I see its benefits I will apply it to my work.
+I am a Data Scientist currently working in a corporate role, mostly analyzing and sorting HR related data. I recently went to a seminar on behalf of my company to gather insights on the state-of-the-art that could help with our new data analysis tools that we are working on! While there I was exposed to various presentations! There was one presentation that introduced me to Knowledge Graphs and their uses. I can see the potential use of KGs but I am a bit skeptical as to how this will make any of my work easier but I would like to learn more about it and if I see its benefits I will apply it to my work.
 
 Learning Steps:
 
@@ -75,7 +79,7 @@ Learning Steps:
 
 **The Connie** <br> **Ontologist Technical Lead**
 
-At my organization, I am tasked with training junior data scientists; however, my organization uses a knowledge graph. I need to know how to standardize integration in the organization so junior data scientists can continue to grow out an existing knowledge graph as new data is gathered.
+At my organization we utilize Knowledge graphs which I use to complete my task of training the junior data scientists; however, my knowledge and time is limited when it comes to certain aspects of KG’s, notably I need to know how to standardize the integration in the organization so junior data scientists can continue to grow an existing knowledge graph as new data is gathered. I perform many roles within my organization so taking a traditional class wouldn't really work with my schedule. 
 
 Learning Steps:
 
@@ -97,7 +101,7 @@ Learning Steps:
 
 **The Courtney** <br> **Data Analyst**
 
-I am currently using a series of spreadsheets to store my data. This database system has become complex and takes a while for calculating simple queries. I would like to explore the pros and cons of different storage mediums, like knowledge bases.
+I am a data analyst at a company. In order to store my data i use a series of spreadsheets, however, this can become complex and takes awhile for me to calculate simple queries. My job requires me to be very fast paced but when i use this type of format to store my information it puts me behind and makes my job more stressful than it needs to be. I recently ran into a friend who is a professor and she mentioned Knowledge Graphs and gave me a brief description of their uses.  I would like to explore the pros and cons of different storage mediums, like knowledge bases.
 
 Learning Steps:
 
@@ -125,7 +129,7 @@ Learning Steps:
 
 **The Edward**
 
-I am the CTO for my organization, in charge of the overall technical direction of the applications and any R&D. I need rapid insights, e.g., regarding functionality and tradeoffs, into whether or not this technology is worth pursuing for our applications, and therefore worth investing time any funds for an optimal outcome.
+I am the chief financial officer for my organization. my duty is to manage the overall technical direction of the applications and any R&D. I need to be quick with my information retrieval which means I need rapid insights, e.g., regarding functionality and tradeoffs, into whether or not this technology is worth pursuing for our applications, and therefore worth investing time or funds for an optimal outcome.
 
 Learning Steps:
 
@@ -137,7 +141,8 @@ Learning Steps:
 
 **The Chris**
 
- I am currently a consultant to stakeholders for the BioBricks Theme. I need to be able to convince them as to why to invest in this project aka  as to why KGs are important with this use case. I need to learn the basics about them, mostly their pros.
+  I am a consultant stakeholders for the [BioBricks](https://github.com/biobricks-ai) theme. I work as an intermediary with the stakeholders and apart from my job, it is to sell KGs. In order to be successful I need to be able to convince these stakeholders why KGs are important and why they should invest in the project. I need to be confident with my knowledge, so I need to learn the basics about KG’s gathering the key selling points along the way! 
+
 
 Learning Steps:
 
@@ -149,7 +154,7 @@ Learning Steps:
 
 **The Carla**
 
- I am currently a collaboration facilitator for the Bio-Health Theme. I need to be able to engage with  people in the clinical area in order to make research for social patterns facilitated by KGs work in this use case. I need to learn the basics but also to be able to understand how the data we want to collect can eventually be integrated with KGs.
+ Heya! My name is Carla and I am a collaboration facilitator for the Bio-Health Theme! Part of my duties is to engage with people in the clinical area, which feeds into research for social patterns that are being facilitated by KGs. I am new to KGs, and in order to fulfill my duties and make sure research is being conducted correctly, I need to learn the basics about KGs. Furthermore, I will need to understand how the data we want to collect can eventually be integrated with KGs.  
 
 Learning Steps:
 
@@ -170,8 +175,8 @@ Learning Steps:
 
 **The Oratius**
 
-I am currently an Ontology and Vocabulary Expert
-for the Spole Theme. I need to be able to develop relevant ontology vocabulary that can be used with the ontology building of the use case. Therefore I have to learn the background/ behind the scenes material regarding KGs at a theoretical level so I can develop the relevant vocabulary.
+Ola! I'm Oratius, and I am the Ontology and Vocabulary Expert for the [Spoke](https://spoke.ucsf.edu/prototype-open-knowledge-network-proto-okn-spoke-space-health) Theme! For the Spoke theme I need to be able to develop a relevant ontology vocabulary which can be used with the ontology building of the use case. To do this I will need to learn about KGs and the scenes material regarding KGs at a theoretical level so I can develop the relevant vocabulary. 
+
 
 Learning Steps:
 

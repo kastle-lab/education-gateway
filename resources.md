@@ -4,6 +4,15 @@
 
 - Find the flyer [here](./assets/resources/knowhax-flyer.pdf), a hackathon dedicated to addressing societal challenges through Knowledge-centric AI, presented by the National Science Foundation (NSF) and the Knowledge Graph Conference (KGC).
 
+### Dialogue as Collaborative Problem Solving: A Case Study
+
+-  Abstract: A wide range of potential dialogue applications involve collaborative problem solving between humans and complex automated reasoning systems, but most existing dialogue system models use very simple dialogue models not expressive enough to capture such behavior. Existing models can
+only be employed for very simple tasks (e.g., making a reservation, querying bus schedules). We describe a model of dialogue explicitly based on a model of collaborative problem solving that can support quite complex task-based reasoning. The key contribution is a domain-independent
+collaborative problem solving model that allows the user to interact with complex automated
+reasoning capabilities, including existing legacy systems, relatively easily. We describe this model and present a case study of the system running in a complex domain involving building and evaluating quantitative models of world processes (e.g., agriculture, economics, food security).
+
+  * Find the full paper [here.](./assets/resources/CPS-World-Modelers_final.pdf)
+
 ### Best Practices
 
 - Find the Proto-OKN Best Practice Guidelines for Knowledge Graph Constructiton:
